@@ -3,8 +3,12 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class MyWorld here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Name: SuJin Lee
+ * Course: CS20S
+ * Teacher: Mr.Hardman
+ * Lab#4, Program #3
+ * Date Last Modified: 11/23/2017
+ *
  */
 public class Classroom extends World
 {
